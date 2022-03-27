@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.imagem{
+    position: absolute;
+    margin-left: 50vh;
+}
